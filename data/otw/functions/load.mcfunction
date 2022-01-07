@@ -1,0 +1,1 @@
+tellraw @a "Over The Wild is loaded."
